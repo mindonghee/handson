@@ -6,6 +6,8 @@ key file : https://drive.google.com/file/d/1uI7leCOkW6V_TFQ0iO5E6izJFSkG_ten/vie
 
 
 Host ec2-2
-    HostName 3.34.97.59
-    User ubuntu
-    IdentityFile C:\Users\user\.ssh\dongdong.pem
+> HostName 3.34.97.59
+> 
+> User ubuntu
+> 
+> IdentityFile C:\Users\user\.ssh\dongdong.pem
